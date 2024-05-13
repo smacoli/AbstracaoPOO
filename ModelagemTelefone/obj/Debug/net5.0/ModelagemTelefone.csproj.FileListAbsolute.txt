@@ -1,0 +1,16 @@
+C:\Users\soliveira\source\repos\ModelagemTelefone\ModelagemTelefone\bin\Debug\net5.0\ModelagemTelefone.exe
+C:\Users\soliveira\source\repos\ModelagemTelefone\ModelagemTelefone\bin\Debug\net5.0\ModelagemTelefone.deps.json
+C:\Users\soliveira\source\repos\ModelagemTelefone\ModelagemTelefone\bin\Debug\net5.0\ModelagemTelefone.runtimeconfig.json
+C:\Users\soliveira\source\repos\ModelagemTelefone\ModelagemTelefone\bin\Debug\net5.0\ModelagemTelefone.runtimeconfig.dev.json
+C:\Users\soliveira\source\repos\ModelagemTelefone\ModelagemTelefone\bin\Debug\net5.0\ModelagemTelefone.dll
+C:\Users\soliveira\source\repos\ModelagemTelefone\ModelagemTelefone\bin\Debug\net5.0\ref\ModelagemTelefone.dll
+C:\Users\soliveira\source\repos\ModelagemTelefone\ModelagemTelefone\bin\Debug\net5.0\ModelagemTelefone.pdb
+C:\Users\soliveira\source\repos\ModelagemTelefone\ModelagemTelefone\obj\Debug\net5.0\ModelagemTelefone.csproj.AssemblyReference.cache
+C:\Users\soliveira\source\repos\ModelagemTelefone\ModelagemTelefone\obj\Debug\net5.0\ModelagemTelefone.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\soliveira\source\repos\ModelagemTelefone\ModelagemTelefone\obj\Debug\net5.0\ModelagemTelefone.AssemblyInfoInputs.cache
+C:\Users\soliveira\source\repos\ModelagemTelefone\ModelagemTelefone\obj\Debug\net5.0\ModelagemTelefone.AssemblyInfo.cs
+C:\Users\soliveira\source\repos\ModelagemTelefone\ModelagemTelefone\obj\Debug\net5.0\ModelagemTelefone.csproj.CoreCompileInputs.cache
+C:\Users\soliveira\source\repos\ModelagemTelefone\ModelagemTelefone\obj\Debug\net5.0\ModelagemTelefone.dll
+C:\Users\soliveira\source\repos\ModelagemTelefone\ModelagemTelefone\obj\Debug\net5.0\ref\ModelagemTelefone.dll
+C:\Users\soliveira\source\repos\ModelagemTelefone\ModelagemTelefone\obj\Debug\net5.0\ModelagemTelefone.pdb
+C:\Users\soliveira\source\repos\ModelagemTelefone\ModelagemTelefone\obj\Debug\net5.0\ModelagemTelefone.genruntimeconfig.cache
